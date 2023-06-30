@@ -4,11 +4,14 @@
 
 ## Configuration
 • Fill in `index.js` -> `line 32 to 38`
+
 • Rename `.env.example` -> `.env ` and fill it
+
 • In case of replit use `SECRETS` instead of renaming `.env.example`
 
 ## Run the code
 • Install Modules with `npm i`
+
 • Start with `npm run start` or `node .`
 
 or
